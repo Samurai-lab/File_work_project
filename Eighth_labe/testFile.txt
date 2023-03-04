@@ -1,0 +1,29 @@
+Surname: 7
+Name: 7
+Otchestvo: 7
+Date of bithday: 7
+Home Adress: 7
+Raiting: 7
+
+Surname: 0
+Name: 0
+Otchestvo: 0
+Date of bithday: 0
+Home Adress: 0
+Raiting: 
+
+Surname: 4
+Name: 4
+Otchestvo: 4
+Date of bithday: 4
+Home Adress: 4
+Raiting: 4
+
+Surname: 1
+Name: 1
+Otchestvo: 1
+Date of bithday: 1
+Home Adress: 
+Iursha 9, dom 9, kv. 45
+Raiting: 3
+
